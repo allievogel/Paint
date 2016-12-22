@@ -1,0 +1,36 @@
+html {
+    background-color: lightgray;
+}
+
+#color-holder{
+    width:100px;
+    height:600px;
+    border-right:black 2px solid;
+    border:  none;
+    background-color:white;
+    display:inline-block;
+}
+
+#color-canvas{
+    display:inline-block;
+    vertical-align: top;
+    margin-left:50px;
+    position:relative;
+}
+
+.columnClass{
+    height: 10px;
+    width: 10px;
+    border: none;
+    display: inline-block;
+    background-color: white;
+}
+
+.colorClass{
+    width:100px;
+    height:100px;
+}
+
+.rowClass{
+    line-height: 0px;
+}
